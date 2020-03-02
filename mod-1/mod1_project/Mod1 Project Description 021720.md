@@ -63,7 +63,7 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 ### Non-Technical Presentation Must-Haves
 
-Another deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to make decisions for creating movies.
+Another deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to make decisions for creating movies.  You may use [this template](https://docs.google.com/presentation/d/1iS5kCJVBiieuUEokWLOSjuAxlz9oX-tPV2xr0i9RYdA/edit?usp=sharing) as guidance.
 
 Your presentation should:
 
@@ -127,8 +127,8 @@ You will present your project to the class using your slidedeck.  This presentat
 
 ## Groups
 
-1. Vivian and Joe B.
-2. Alphonso and Joe McH
+1. Vivian and Joe McH
+2. Alphonso and Joe B
 3. Caitlin
 4. Ahsan
 5. Michael
