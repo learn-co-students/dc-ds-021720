@@ -120,7 +120,7 @@ You will meet with an  instructor who will check if the minimum requirements of 
 
 You will meet with the coaches and do a practice presentation with them.  At this point the coaches will provide verbal feedback which can be incorportated in your final presentation.
 
-### 4. Project Presentations- Friday
+### 6. Project Presentations- Friday
 
 You will present your project to the class using your slidedeck.  This presentation should not take more than 5 minutes and should be directed towards a non-technical audience.  Both partners should participate in the presentation of the project.
 
