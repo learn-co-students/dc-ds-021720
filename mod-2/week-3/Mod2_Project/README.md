@@ -111,20 +111,19 @@ You will meet with the coaches to discuss your progress on the project and your 
    - What visualizations have you already made/planning to assess if your data meets the assumtions of linear regression?
    
 - Modeling:
- * Is this a classification task? A regression task? Something else?
- * What models will we try?
- * How do we deal with overfitting?
- * Do we need to use regularization or not?
- * What sort of validation strategy will we be using to check that our model  - works well on unseen data?
- * What loss functions will we use?
- * What threshold of performance do we consider as successful?
+    - Is this a classification task? A regression task? Something else?
+    - What models will we try?
+    - How do we deal with overfitting?
+    - Do we need to use regularization or not?
+    - What sort of validation strategy will we be using to check that our model  - works well on unseen data?
+    - What loss functions will we use?
+    - What threshold of performance do we consider as successful?
 
 
 - Evaluation:
-
- - How are you determining which variables are important.
- - What overall metric of success are you using.
- - What additional steps might you need to take to improve the model? (ex: transforming data, scaling data, getting more features) 
+    - How are you determining which variables are important.
+    - What overall metric of success are you using.
+    - What additional steps might you need to take to improve the model? (ex: transforming data, scaling data, getting more features) 
    
 ### 4. Instructor Check-In & MVP Deadline- Wednesday
 You will meet with an  instructor who will check if the minimum requirements of the project are completed. At this point you should have your visualizations done and they should answer the business questions.  Following this meeting you should be ready to polish your notebook and work on your slidedeck.
