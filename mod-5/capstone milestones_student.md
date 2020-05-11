@@ -3,7 +3,7 @@
 | Week  | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :----	  | :---	| :----- | :----- | :----- | :----- |
 | [13](#week13) | • Project Pitches to Su <br> •  Coach Check ins| | • First Stinky Model Due <br> •  Coach Check ins|  |• Coach Check ins |
-| [14](#week14) | • Coach Check ins |  | • Minimum Viable Product Submissions |  | •  Feedback on MVP |
+| [14](#week14) | • Coach Check ins |  | • Minimum Viable Product Submissions <br> •  Coach Check ins |  | •  Feedback on MVP <br> •  Coach Check ins |
 | [15](#week15) | CAMPUS HOLIDAY-CLOSED | • Coach Check ins | • 2nd Round MVP Submissions<br> • Capstone Showcase Runthrough with Lead Feedback <br> • Final Touches on Project Presentation and GitHub Repo  | • HARD STOP @2PM <br> • Cohort Activity<br> • Capstone Project Showcase | • Mod 5 Survey <br> • Graduation <br> • Final Feelings | 
 
 ##  Daily Activities
